@@ -734,7 +734,7 @@ background: #fff;box-shadow: 0px 0px 3px #ccc;
 }
 @media screen and (max-width:480px){
 .Format blockquote, .entry-content blockquote.tr_bq{font-size:12px;}
-.Pendaftaran iframe {min-height: 854px;}
+.Pendaftaran iframe {min-height: 865px;}
 #oem-info, #top-menu{float:none!important;display:block;margin:0px auto;text-align:center;padding-bottom:5px;}
 .Pendaftaran .entry-content ul{width:100%!important;max-width:235px;display: block !important;margin: 10px auto !important;float:none;min-width: 235px !important;}
 .Pendaftaran .entry-content ul li:nth-child(3), .Pendaftaran .entry-content ul li:nth-child(4){padding-left: 30px!important;}
@@ -754,7 +754,7 @@ body, .body-fauxcolumn-outer {font-size: 80%;}
 .comments {display:none}
 }
 @media screen and (max-width:320px){
-.Pendaftaran iframe {min-height: 877px;}
+.Pendaftaran iframe {min-height: 910px;}
 .fb a{font-size:0.9em!important;}
 .jabber a{font-size:0.8em!important;}
 .terkait ul {padding: 0;list-style-type: none;}
