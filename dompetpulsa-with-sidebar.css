@@ -674,7 +674,7 @@ img{display:block;margin:2pxauto}
 .dp-deposit { background-position: -0px -71px; width: 200px; height: 70px; }
 .dp-transaksi { background-position: -0px -141px; width: 200px; height: 71px; }
 
-.index .img.apk{height:65px;}
+.index .img.apk{height:65px;background-position: 0px -245px;}
 .header-content{width: 100%;max-width: 920px;}
 .hero {
   align-items: center;
