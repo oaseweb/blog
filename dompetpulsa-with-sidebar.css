@@ -320,7 +320,7 @@ margin: 5px;
 #blog-pager a:hover{background:linear-gradient(whiteSmoke,rgb(216, 216, 216))}
 .feed-links { clear: both; line-height: 2.5em;display:none;}
 .home_menu {
-background:url(https://1.bp.blogspot.com/-xrtUfyPYscQ/T_rX4TeTPGI/AAAAAAAABl4/TSoglJcs2Ps/s1600/Viva-Blogspot.png) 0px -579px;
+background:url() 0px -579px;
 width: 10px;
 height: 10px;
 margin: 10px 5px;
@@ -351,7 +351,7 @@ margin-bottom: 0;
 padding-bottom: 0;
 }
 .comments .comments-content .icon.blog-author {
-background: url(https://2.bp.blogspot.com/-nKaxFngIvto/Uh5qxjZUyvI/AAAAAAAAADw/MF9keiQHC08/s1600/admincomments.png)bottom center no-repeat;
+background: url()bottom center no-repeat;
 display: inline-block;
 margin: -4px -8px -3px -1px;
 width: 33px;
@@ -470,7 +470,7 @@ transition: all .1s ease-in-out;
 #search-form{height:33px;-moz-border-radius:3px; -khtml-border-radius:3px; -webkit-border-radius:3px; border-radius:3px;background-color:#fff;overflow:hidden}
 #search-text{font-size:14px;color:#ddd;border-width:0;background:transparent}
 #search-box input[type="text"]{width:90%;padding:7px 0 12px 1em;color:#666;outline:none}
-#search-button{position:absolute;top:0;right:0;height:32px;width:20px;margin-top:10px;font-size:14px;color:#fff;text-align:center;line-height:0;border-width:0;background:url(https://4.bp.blogspot.com/-9cg5-K_jtuc/Uh5opT3mJvI/AAAAAAAAADc/5FnyCMV0L-8/s1600/search.png) no-repeat;cursor:pointer}
+#search-button{position:absolute;top:0;right:0;height:32px;width:20px;margin-top:10px;font-size:14px;color:#fff;text-align:center;line-height:0;border-width:0;background:url() no-repeat;cursor:pointer}
 /* -- SET FOR STATUS MESSAGE -- */
 .status-msg-body{padding:10px 0 ; display:none}
 .status-msg-wrap{display:none; font-size:14px; margin-left:1px;  width:100%; color:#666;  }
@@ -577,18 +577,18 @@ body#layout div.section h4,#layout div.section h4 {display:none;}
 #data2007 b{display:none;}
 #data2007 ul li {border-bottom: 1px dotted #797979;padding: 5px 0;}
 .bank {display: inline-block; vertical-align: middle;}
-.bank {background-image: url(https://lh3.googleusercontent.com/-1lJaddVhnik/W7l2vVDLhOI/AAAAAAAAC9s/CWaz9gej7P83XMlkP0XB4W7wOBGrEyuxACLcBGAs/s1600/logo%2Bbank.png); background-position: left center; background-repeat: no-repeat;}
+.bank {background-image: url(); background-position: left center; background-repeat: no-repeat;}
 .bank.bca {background-position: 0 0; width: 110px; height: 48px;}
 .bank.mandiri {background-position: 0 -49px; width: 110px; height: 48px;}
 .bank.bni {background-position: 0 -98px; width: 110px; height: 48px;}
 .bank.bri {background-position: 0 -147px; width: 110px; height: 48px;}
 .img {display: inline-block; vertical-align: middle;}
-.img {background-image: url(https://lh3.googleusercontent.com/-7Jc4peJS1sQ/W7l2vc1MNZI/AAAAAAAAC9o/33gz-x_38WEk4nKBealbCjBRmxLXDfGrwCLcBGAs/s1600/img.png); background-position: left center; background-repeat: no-repeat;background-size: 100%;border-radius: 12px;box-shadow: 0px 0px 3px #ccc inset;display: block;margin: 0px auto;text-align: center;}
-.img.apk {background-position: 0 0; width: 100%;max-width:258px;height: 78px;}
-.img.channel {background-position: 0 -78px; width: 100%;max-width:258px;height: 78px;}
+.img {background-image: url(https://i2.wp.com/imgku.files.wordpress.com/2018/09/web.png); background-position: left center; background-repeat: no-repeat;background-size: 100%;border-radius: 12px;box-shadow: 0px 0px 3px #ccc inset;display: block;margin: 0px auto;text-align: center;}
+.img.apk {background-position: 0 0; width: 100%;max-width:258px;height: 290px;}
+.img.channel {background-position: 0 -207px; width: 100%;max-width:258px;height: 78px;}
 ul.imcenter{list-style:none!important;font-weight:bold;margin:0px;padding:0px 5px;}
 ul.im li{margin-left:0px;font-size:18px}
-ul.imcenter li::before {content: "*";background-image: url(https://lh3.googleusercontent.com/-IM16CvDvrvw/W7l2vs3peKI/AAAAAAAAC9w/uewM1IJT5EYAsAGRv_zUuiMf_OLlX3BQwCLcBGAs/s1600/social2.png);background-repeat: no-repeat;height: 32px;list-style: none !important;margin: 0px auto;display: inline-block;line-height: 32px;border-radius: 7px;width: 32px;box-shadow: 0px 0px 2px #000 inset;color: transparent;background-size:cover;}
+ul.imcenter li::before {content: "*";background-image: url();background-repeat: no-repeat;height: 32px;list-style: none !important;margin: 0px auto;display: inline-block;line-height: 32px;border-radius: 7px;width: 32px;box-shadow: 0px 0px 2px #000 inset;color: transparent;background-size:cover;}
 ul.imcenter li{padding-bottom:2px!important;list-style-type: none !important;}
 .imcenter li a{font-size: 14px;line-height: 8px;margin-left:5px;}
 
@@ -608,7 +608,7 @@ ul.imcenter li{padding-bottom:2px!important;list-style-type: none !important;}
 .Pendaftaran .entry-content ul li:nth-child(3), .Pendaftaran .entry-content ul li:nth-child(4){padding-left: 15px;margin-bottom: 10px;clear:both;}
 .Pendaftaran .entry-content ul li:nth-child(3)::before, .Pendaftaran .entry-content ul li:nth-child(4)::before {
     content: "*";
-    background-image: url(https://lh3.googleusercontent.com/-IM16CvDvrvw/W7l2vs3peKI/AAAAAAAAC9w/uewM1IJT5EYAsAGRv_zUuiMf_OLlX3BQwCLcBGAs/s1600/social2.png);
+    background-image: url();
     background-repeat: no-repeat;
     height: 24px;
     list-style: none !important;
