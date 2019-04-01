@@ -664,7 +664,7 @@ auto}.sprite{background-image:url(https://i2.wp.com/imgku.files.wordpress.com/20
 img{display:block;margin:2pxauto}
 .float {font-family: sans-serif;position: fixed;bottom: 5px;right: 5px;background-color: rgba(24, 157, 14, 1);color: #FFF;border-radius: 50px;font-size: 12px;z-index: 9999;max-width: 185px;max-height: 100%;padding: 5px 8px;text-align: center;line-height: 20px;}
 .back-top{z-index: 999999;background: #fff;padding: 2px;border: 1px dotted;opacity: 0.8;position:fixed; bottom: 46px; right: 10px; ;border-radius:4px;text-decoration:none;}
-.Pendaftaran iframe{min-height: 846px;height: 100%;overflow: hidden;visibility: visible;opacity: 1;transition: opacity 2s linear;background: url(https://lh3.googleusercontent.com/-ft5mxnHbz5M/XJswgbgOxTI/AAAAAAAADgs/zXWxEnPHjSsWBz2YE-j8riiLLf65IOargCLcBGAs/s1600/ajax-loader.gif) top center no-repeat !important;}
+.Pendaftaran iframe{min-height: 846px;height: 100%;overflow: hidden;visibility: visible;opacity: 1;transition: opacity 2s linear;background: url(https://lh3.googleusercontent.com/-ft5mxnHbz5M/XJswgbgOxTI/AAAAAAAADgs/zXWxEnPHjSsWBz2YE-j8riiLLf65IOargCLcBGAs/s1600/ajax-loader.gif) center 30px no-repeat !important}
 #HTML6 .widget-item-control{margin-top:28px;display:block;}
 .float b{font-style: normal !important;}
 .dp-daftar, .dp-deposit, .dp-transaksi
