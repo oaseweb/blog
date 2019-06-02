@@ -881,6 +881,7 @@ background: #fff;box-shadow: 0px 0px 3px #ccc;
 body, .body-fauxcolumn-outer {font-size: 80%;}
 .d-none {display:none;}
 .playstore{display: block;margin: 0px auto;}
+.index .img.apk {height: 78px!important;background-position: 0px -290px!important;position: absolute;bottom: 0;left: 0;right: 0;margin: 14px auto;}
 }
 @media screen and (max-width:380px){
 .comments {display:none}
