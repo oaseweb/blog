@@ -580,7 +580,7 @@ padding: 0px !important;
 .carousel-item, .carousel-item img{height: 25rem!important;}
 }
 @media only screen and (max-width:480px){
-#header-wrap span{display: block;padding-bottom: 5px;}
+#header-wrap #HTML4 .widget-content span{display: block;padding-bottom: 5px;}
 .carousel-item, .carousel-item img{height: 15rem!important;}
 .entry-title, .h1, h1 {font-size: 1.5rem!important;}
 .post {padding:0px;margin:0px auto;}
