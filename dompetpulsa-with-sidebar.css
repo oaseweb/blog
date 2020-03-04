@@ -664,7 +664,7 @@ auto}.sprite{background-image:url(https://i2.wp.com/imgku.files.wordpress.com/20
 img{display:block;margin:2pxauto}
 .float {font-family: sans-serif;position: fixed;bottom: 5px;right: 5px;background-color: rgba(24, 157, 14, 1);color: #FFF;border-radius: 50px;font-size: 12px;z-index: 9999;max-width: 185px;max-height: 100%;padding: 5px 8px;text-align: center;line-height: 20px;}
 .back-top{z-index: 999999;background: #fff;padding: 2px;border: 1px dotted;opacity: 0.8;position:fixed; bottom: 46px; right: 10px; ;border-radius:4px;text-decoration:none;}
-.Pendaftaran iframe{min-height: 846px;height: 100%;overflow: hidden;visibility: visible;opacity: 1;transition: opacity 2s linear;background: url(https://i2.wp.com/imgku.files.wordpress.com/2019/08/ajax-loader.gif) center 30px no-repeat !important}
+.Pendaftaran iframe{min-height: 670px;height: 100%;overflow: hidden;visibility: visible;opacity: 1;transition: opacity 2s linear;background: url(https://i2.wp.com/imgku.files.wordpress.com/2019/08/ajax-loader.gif) center 30px no-repeat !important}
 #HTML6 .widget-item-control{margin-top:28px;display:block;}
 .float b{font-style: normal !important;}
 .dp-daftar, .dp-deposit, .dp-transaksi
@@ -866,7 +866,7 @@ background: #fff;box-shadow: 0px 0px 3px #ccc;
 }
 @media screen and (max-width:480px){
 .Format blockquote, .entry-content blockquote.tr_bq{font-size:12px;}
-.Pendaftaran iframe {min-height: 865px;}
+.Pendaftaran iframe {min-height: 670px;}
 #oem-info, #top-menu{float:none!important;display:block;margin:0px auto;text-align:center;padding-bottom:5px;}
 .Pendaftaran .entry-content ul{width:100%!important;max-width:235px;display: block !important;margin: 10px auto !important;float:none;min-width: 235px !important;}
 .Pendaftaran .entry-content ul li:nth-child(3), .Pendaftaran .entry-content ul li:nth-child(4){padding-left: 30px!important;}
@@ -886,7 +886,7 @@ body, .body-fauxcolumn-outer {font-size: 80%;}
 .comments {display:none}
 }
 @media screen and (max-width:320px){
-.Pendaftaran iframe {min-height: 910px;}
+.Pendaftaran iframe {min-height: 670px;}
 .fb a{font-size:0.9em!important;}
 .jabber a{font-size:0.8em!important;}
 .terkait ul {padding: 0;list-style-type: none;}
