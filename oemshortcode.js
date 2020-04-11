@@ -4,3 +4,12 @@ var linkList = document.querySelectorAll('.formagen');
 for(var i in linkList){
  linkList[i].innerHTML = '<iframe src="'+formagen+'" width="100%"></iframe>';
 }
+var autoReg2 = document.getElementsByClassName("autoreg");
+
+for (var i = 0; i < autoReg2.length; i++) {
+  autoReg2[i].innerHTML = autoreg;
+  }
+document.getElementById("kodereg").innerHTML = kodereg;
+function kodeReg(){
+prompt('Wajib Masukan Kode Undangan : ' + kodereg + '\n untuk daftar Aplikasi, silahkan copy/salin terlebih dulu', kodereg);
+}
